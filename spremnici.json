@@ -1,0 +1,14 @@
+[
+  {
+    "spremnik_id": "111",
+    "vrsta_spremnika": "diesel",
+    "stanje": 11926.0,
+    "cijena_goriva": 8.8
+  },
+  {
+    "spremnik_id": "112",
+    "vrsta_spremnika": "benzin",
+    "stanje": 15905.0,
+    "cijena_goriva": 9.8
+  }
+]

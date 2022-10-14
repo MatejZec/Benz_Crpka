@@ -1,0 +1,63 @@
+4.2.2021. 1:39:24 Pocetak programa
+
+4.2.2021. 2:14:05 Pocetak programa
+4.2.2021. 2:14:05 Pokusaj prijave
+4.2.2021. 2:14:10 Uspijesna prijava
+4.2.2021. 2:14:10 Glavni izbornik
+4.2.2021. 2:14:16 Pregled Racuna
+4.2.2021. 2:14:20 Povratak u glavni izbornik
+4.2.2021. 2:14:30 Stanje u spremnicima
+4.2.2021. 2:14:31 Povratak u glavni izbornik
+4.2.2021. 2:14:36 Azuriranje
+4.2.2021. 2:14:39 Odabrano - Azuriranje spremnika
+4.2.2021. 2:14:43 Odabran - Benzin spremnik
+4.2.2021. 2:14:54 Spremnik azuriran
+4.2.2021. 2:15:02 Povratak u glavni izbornik
+4.2.2021. 2:15:09 Izrada racuna
+4.2.2021. 2:15:32 Izdan racun
+4.2.2021. 2:15:32 Spremnik azuriran nakon izdaje racuna
+4.2.2021. 2:15:36 Povratak u glavni izbornik
+4.2.2021. 2:15:38 Kraj programa
+
+4.2.2021. 2:19:34 Pocetak programa
+4.2.2021. 2:19:34 Pokusaj prijave
+4.2.2021. 2:19:40 Uspijesna prijava
+4.2.2021. 2:19:40 Glavni izbornik
+4.2.2021. 2:19:43 Pregled Statistike
+
+4.2.2021. 2:23:03 Pocetak programa
+4.2.2021. 2:23:03 Pokusaj prijave
+4.2.2021. 2:23:08 Uspijesna prijava
+4.2.2021. 2:23:08 Glavni izbornik
+4.2.2021. 2:23:13 Azuriranje
+4.2.2021. 2:23:17 Odabrano - Azuriranje spremnika
+4.2.2021. 2:24:15 Odabran - Benzin spremnik
+4.2.2021. 2:24:26 Spremnik azuriran
+4.2.2021. 2:24:34 Povratak u glavni izbornik
+4.2.2021. 2:24:37 Kraj programa
+
+4.2.2021. 2:26:25 Pocetak programa
+4.2.2021. 2:26:25 Pokusaj prijave
+4.2.2021. 2:26:30 Uspijesna prijava
+4.2.2021. 2:26:30 Glavni izbornik
+4.2.2021. 2:26:31 Kraj programa
+
+4.2.2021. 2:28:01 Pocetak programa
+4.2.2021. 2:28:01 Pokusaj prijave
+4.2.2021. 2:28:05 Uspijesna prijava
+4.2.2021. 2:28:05 Glavni izbornik
+4.2.2021. 2:28:07 Kraj programa
+
+4.2.2021. 2:28:12 Pocetak programa
+4.2.2021. 2:28:12 Pokusaj prijave
+4.2.2021. 2:28:16 Uspijesna prijava
+4.2.2021. 2:28:16 Glavni izbornik
+4.2.2021. 2:28:21 Kraj programa
+
+
+
+4.2.2021. 0:00:00 - Pocetak programa
+4.2.2021. 0:00:00 - Pokusaj prijave
+4.2.2021. 0:00:00 - Uspijesna prijava
+4.2.2021. 0:00:00 - Glavni izbornik
+4.2.2021. 0:00:00 - Pregled stanja u spremnicima

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <zaposlenik id="132" ime="Matej" prezime="Zec" korisnicko_ime="matej" lozinka="mercbenzking"></zaposlenik>
+  <zaposlenik id="133" ime="Danijel" prezime="Mlinaric" korisnicko_ime="dado" lozinka="papuk"></zaposlenik>
+  <zaposlenik id="134" ime="Marko" prezime="Zec" korisnicko_ime="Marko" lozinka="SandDisk"></zaposlenik>
+</data>
